@@ -1,72 +1,71 @@
-<h1 align="center">👋 Hi, I'm Abhay Padmanabhan</h1>
-<h3 align="center">Business Analyst | UC Davis MSBA | SQL • Python • Dashboarding • A/B Testing</h3>
+<h1 align="center">👋 Hi, I’m Abhay Padmanabhan</h1>
+<h3 align="center">Data & Business Analyst | MSBA @ UC Davis | Based in San Francisco</h3>
 
 <p align="center">
-  <a href="mailto:apadmanabhan@ucdavis.edu"><img src="https://img.shields.io/badge/Email-apadmanabhan%40ucdavis.edu-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/apadmanabhan98"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://abhaypadmanabhan.com"><img src="https://img.shields.io/badge/Portfolio-Site-green?style=flat-square&logo=internet-explorer"></a>
-  <a href="https://github.com/abhaypadmanabhan"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"></a>
+  <a href="mailto:apadmanabhan@ucdavis.edu"><img src="https://img.shields.io/badge/Email-apadmanabhan%40ucdavis.edu-blue?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/apadmanabhan98"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://abhaypadmanabhan.com"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome"></a>
+  <a href="https://github.com/abhaypadmanabhan"><img src="https://img.shields.io/badge/GitHub-@abhaypadmanabhan-black?style=flat&logo=github"></a>
 </p>
 
 ---
 
-### 🚀 Quick Overview
+### 🚀 About Me
 
-🎓 **MSBA Grad @ UC Davis** (Aug 2025)  
-📍 Based in **San Francisco**, actively seeking full-time roles in **Product, Business, or Data Analytics**  
-📊 Delivered measurable impact in **finance, operations, and customer analytics**  
-💡 Built ML dashboards, real-time pipelines, and AI automation workflows from scratch
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack | Impact |
-|--------|-------------|-------|--------|
-| [Liquidity Forecasting 💰](https://github.com/abhaypadmanabhan/liquidity-pipeline) | Real-time Plaid ingestion + Looker dashboard for cash flow runway | GCP, Pub/Sub, DBT, Looker | Predicts overdrafts & powers CFO decisions |
-| [Churn Prediction 📉](https://github.com/abhaypadmanabhan/Churn-Prediction-Dashboard) | Built ML models & SHAP explainers for customer churn | Python, Tableau | 77% accuracy & 20% churn reduction simulation |
-| [AI Job App Manager 🤖](https://github.com/abhaypadmanabhan/ai-job-application-manager) | GPT + Notion + Zapier agent to track & strategize job hunts | Gemini, Zapier, Python | Saves 10+ hours/week job searching |
-| [Smart Dating App Matcher 💘](https://github.com/abhaypadmanabhan/DatingApp_SmartMatching) | FAISS recommender for profile matching via text + likes | Python, FAISS, NLP | Built scalable matchmaking backend |
-| [DS Interview Chatbot 📚](https://github.com/abhaypadmanabhan/DS_Interview_Chatbot) | AI chatbot trained on interview prep & case studies | LangChain, Gemini, Streamlit | Personalized prep assistant |
-| Venmo Segmentation 🔜 | TBA | Python, KMeans | Analyzing spending patterns from Venmo exports |
+- Built **real-time dashboards, churn models, and automation agents** that improved decision-making across ops, finance, and hiring.
+- Worked on projects with **>30% time savings**, **15%+ process improvements**, and **business-facing dashboards** for execs.
+- Currently targeting **full-time analyst roles** — product, business, data.
 
 ---
 
-### 📊 Tools & Skills
+### 🧠 Featured Projects (Impact-Driven)
 
-#### 🧪 Analytics
-`SQL` · `A/B Testing` · `Causal Inference` · `Regression` · `ML Models` · `Churn Analysis` · `Predictive Modeling`
+| ⚡ Project | 🧾 Summary | 🛠️ Tools | 
+|--------|-------------|--------|
+| [Liquidity Forecasting](https://github.com/abhaypadmanabhan/liquidity-pipeline) | Real-time Plaid → Looker pipeline for cashflow runway + breach alerts | GCP, Pub/Sub, BigQuery, dbt, Looker |
+| [Churn Dashboard](https://github.com/abhaypadmanabhan/Churn-Prediction-Dashboard) | Predicted churn with 77% accuracy + 75% recall; added SHAP explainer | Python, scikit-learn, Tableau |
+| [AI Job App Manager](https://github.com/abhaypadmanabhan/ai-job-application-manager) | Automated job tracking with Gemini + Notion + Zapier workflows | Gemini, Zapier, Python |
+| [Smart Matchmaking Engine](https://github.com/abhaypadmanabhan/DatingApp_SmartMatching) | Built FAISS-based profile recommender from user interaction data | FAISS, NLP, Python |
+| [DS Interview Chatbot](https://github.com/abhaypadmanabhan/DS_Interview_Chatbot) | Chatbot trained on real interview Qs and custom case studies | Gemini, LangChain, Streamlit |
+| Venmo Segmentation | *(Coming Soon)* Spend clustering from P2P transactions | Python, KMeans, PCA |
 
-#### 🛠️ Tools & Tech
-`Python` · `Tableau` · `Looker` · `Power BI` · `Excel` · `Supabase` · `DBT` · `BigQuery` · `Vertex AI` · `Zapier` · `Make`
+---
 
-#### ☁️ Data Engineering
-`ETL Pipelines` · `APIs` · `Cloud Functions` · `Pub/Sub` · `Web Scraping` · `Automation`
+### 🧰 Toolbox
 
-#### 🎯 Soft Skills
-`Stakeholder Communication` · `Project Management` · `Data Storytelling` · `Agile Execution`
+**Languages & Tools**  
+`SQL` · `Python` · `R` · `Excel` · `Tableau` · `Looker` · `Power BI` · `Zapier` · `Make` · `Supabase` · `Streamlit`
+
+**Analytics & ML**  
+`A/B Testing` · `Regression` · `Causal Inference` · `Predictive Modeling` · `SHAP` · `Explainable AI`
+
+**Data Engineering**  
+`ETL Pipelines` · `dbt` · `BigQuery` · `Cloud Functions` · `Pub/Sub` · `APIs` · `Web Scraping`
+
+**Soft Skills**  
+`Stakeholder Communication` · `Agile Project Management` · `Data Storytelling`
 
 ---
 
 ### 🧾 Certifications
 
-- 🟦 **Tableau Desktop Specialist**
-- 📊 **Google Certified Data Science**
-- 🧭 **INFORMS aCAP – Foundations in Data Ethics**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaypadmanabhan&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypadmanabhan&layout=compact&theme=radical" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-Certified-blueviolet?style=flat-square&logo=tableau" />
+  <img src="https://img.shields.io/badge/Google-Data%20Science-lightblue?style=flat-square&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/INFORMS-Data%20Ethics-yellow?style=flat-square&logo=verizon" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### 📬 Contact Me
 
-- 📬 **Email**: [apadmanabhan@ucdavis.edu](mailto:apadmanabhan@ucdavis.edu)
-- 💼 **LinkedIn**: [linkedin.com/in/apadmanabhan98](https://linkedin.com/in/apadmanabhan98)
-- 🌐 **Portfolio**: [abhaypadmanabhan.com](https://abhaypadmanabhan.com)
+- 📧 **Email**: [apadmanabhan@ucdavis.edu](mailto:apadmanabhan@ucdavis.edu)  
+- 🔗 **LinkedIn**: [linkedin.com/in/apadmanabhan98](https://linkedin.com/in/apadmanabhan98)  
+- 🌍 **Portfolio**: [abhaypadmanabhan.com](https://abhaypadmanabhan.com)
+
+---
+
+### 🎯 Looking for...
+
+**Product Analyst | Business Analyst | Data Analyst**  
+Let’s work on meaningful data problems together.
